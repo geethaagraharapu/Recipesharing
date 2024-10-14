@@ -1,0 +1,15 @@
+.navbar a {
+    float: center;
+    color: #23d84b;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  .h5{
+    padding:10px 10px;
+    border-width: 4;
+    border-spacing: 1;
+    border-style: rectangle;
+
+  }
