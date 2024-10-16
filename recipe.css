@@ -5,11 +5,20 @@
     padding: 14px 16px;
     text-decoration: none;
     font-size: 17px;
-  }
-  .h5{
-    padding:10px 10px;
-    border-width: 4;
-    border-spacing: 1;
-    border-style: rectangle;
+}
 
-  }
+.p {
+    border: 1px solid black;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    background-color: lightblue;
+}
+
+.img {
+    float: right;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 3000px;
+}
