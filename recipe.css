@@ -2,9 +2,9 @@
     float: center;
     color: #23d84b;
     text-align: center;
-    padding: 14px 16px;
+    padding: 50px 30px;
     text-decoration: none;
-    font-size: 17px;
+    font-size: 20px;
 }
 
 .p {
@@ -16,9 +16,11 @@
     background-color: lightblue;
 }
 
-.img {
+.image-right {
     float: right;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    padding-left: 3000px;
+    padding-right: 100px;
+}
+
+.body {
+    background-color: aqua;
 }
